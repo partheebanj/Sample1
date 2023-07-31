@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleProject</string>
+    <string name="new_post">New Post  +</string>
+    <string name="title">Title</string>
+    <string name="caption">Caption</string>
+    <string name="post">Post</string>
+</resources>
